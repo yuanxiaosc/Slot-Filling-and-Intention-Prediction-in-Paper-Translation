@@ -3,7 +3,7 @@
 + **论文任务信息汇总**：包含所有已经翻译和正在翻译论文
 + **例子**：下面以 A Self-Attentive Model with Gate Mechanism for Spoken Language Understanding 为例说明翻译格式，更多内容见[槽填充和意图识别任务相关论文发展脉络.md](https://github.com/yuanxiaosc/Slot-Filling-and-Intention-Prediction-in-Paper-Translation/blob/master/%E6%A7%BD%E5%A1%AB%E5%85%85%E5%92%8C%E6%84%8F%E5%9B%BE%E8%AF%86%E5%88%AB%E4%BB%BB%E5%8A%A1%E7%9B%B8%E5%85%B3%E8%AE%BA%E6%96%87%E5%8F%91%E5%B1%95%E8%84%89%E7%BB%9C.md)
 
-
+> 一般会经常在[博客](https://yuanxiaosc.github.io/categories/%E8%AE%BA%E6%96%87/%E5%8F%A3%E8%AF%AD%E7%90%86%E8%A7%A3/)中更新此内容，等到收集到一定数量才在这里更新！
 
 
 ## 最新槽填充和意图识别任务相关论文
