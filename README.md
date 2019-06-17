@@ -5,6 +5,7 @@
 
 > 一般会经常在[博客](https://yuanxiaosc.github.io/categories/%E8%AE%BA%E6%96%87/%E5%8F%A3%E8%AF%AD%E7%90%86%E8%A7%A3/)中更新此内容，等到收集到一定数量才在这里更新！
 
+[槽填充和意图识别任务的基本概念](https://yuanxiaosc.github.io/2019/03/18/%E6%A7%BD%E5%A1%AB%E5%85%85%E5%92%8C%E6%84%8F%E5%9B%BE%E8%AF%86%E5%88%AB%E4%BB%BB%E5%8A%A1%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/)
 
 ## 最新槽填充和意图识别任务相关论文
 
